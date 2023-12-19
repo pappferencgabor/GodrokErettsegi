@@ -1,0 +1,17 @@
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\bin\Debug\net6.0\Godrok.exe
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\bin\Debug\net6.0\sources\melyseg.txt
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\bin\Debug\net6.0\Godrok.deps.json
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\bin\Debug\net6.0\Godrok.runtimeconfig.json
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\bin\Debug\net6.0\Godrok.dll
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\bin\Debug\net6.0\Godrok.pdb
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.csproj.AssemblyReference.cache
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.AssemblyInfoInputs.cache
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.AssemblyInfo.cs
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.csproj.CoreCompileInputs.cache
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.dll
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\refint\Godrok.dll
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.pdb
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\Godrok.genruntimeconfig.cache
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\obj\Debug\net6.0\ref\Godrok.dll
+C:\Users\papp.ferenc.gabor\Documents\Papp Ferenc Gábor\Godrok\Godrok\bin\Debug\net6.0\sources\godrok.txt
